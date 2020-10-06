@@ -52,7 +52,7 @@ author: mtdickens
 5.5 #大经济
 题外话，如果体会不到摩天大楼就是通天塔，那么请看下图，地点 Baku, Azerbaijan
 够明显了，无比突兀，就像文艺作品里魔界入侵地表的开口，如果还觉得没有问题，那是你堕落太深。
-![blogPage](https://pbs.twimg.com/media/EZDvnUYUMAAKKzP?format=jpg&name=large)
+![blogPage](https://cdn.jsdelivr.net/gh/MTDickens/mtdickens.github.io/images/2020-10-06-intensive_order_theory_1/EZDvnUYUMAAKKzP.jpg)
 
 5.5(续) #大经济
 大部分人所以为的“魔鬼”，都搞错了。
